@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "173167189912",
+    "project_id": "voila-db8c0",
+    "storage_bucket": "voila-db8c0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173167189912:android:b433abeeeb73cd9b3b55ed",
+        "android_client_info": {
+          "package_name": "com.example.voillas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHJBBYUyNskIN5dxP_WhpLPpzqFoCaFHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
